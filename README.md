@@ -5,7 +5,9 @@
 </p>
 
 <p>
-  <a href="https://vandreleal.github.io">Website</a> •
-  <a href="https://www.linkedin.com/in/vandre/">LinkedIn</a> •
-  <a href="https://medium.com/@vandreleal">Medium</a>
+  <a href="https://vandreleal.github.io" target="_blank">Website</a> •
+  <a href="https://www.linkedin.com/in/vandre/" target="_blank">LinkedIn</a> •
+  <a href="https://medium.com/@vandreleal" target="_blank">Medium</a> •
+  <a href="https://www.npmjs.com/~vandreleal" target="_blank">npm</a> •
+  <a href="https://open.spotify.com/user/vandrelc" target="_blank">Spotify</a>
 </p>
