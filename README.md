@@ -17,4 +17,4 @@
 - 👯 I’m looking to collaborate on Open-Source Software
 - ⚡ Fun fact: I'm from Ituiutaba, Minas Gerais, Brazil
 
-[![Vandre's Github Stats](https://github-readme-stats.vercel.app/api?username=vandreleal&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](https://metrics.lecoq.io/vandreleal)
