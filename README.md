@@ -12,7 +12,6 @@
   I'm a software engineer well-versed in JavaScript with experience in React, Redux, Gatsby, Next.js, PHP, Laravel, and SQL. I think about code organization more than I would like to admit and have been using principles of Atomic Design for component hierarchy, CSS-in-JS for styling, and Storybook for visual testing.
 </p>
 
-- 🔭 I’m currently working at UV
 - 🌱 I’m currently learning principles of SSR, Next.js, and GraphQL
 - 👯 I’m looking to collaborate on Open-Source Software
 - ⚡ Fun fact: I'm from Ituiutaba, Minas Gerais, Brazil
