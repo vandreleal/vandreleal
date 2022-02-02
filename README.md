@@ -9,10 +9,7 @@
 </p>
 
 <p>
-  I'm a software engineer well-versed in JavaScript/TypeScipt with experience in React, Next.js, Gatsby, GraphQL, MobX, PHP, Laravel, and MySQL. I think about code organization more than I would like to admit and have been using principles of Atomic Design for component hierarchy, CSS-in-JS for styling, and Storybook for visual testing.
+  I'm a software engineer well-versed in JavaScript/TypeScript with experience in React, Next.js, Gatsby, GraphQL, MobX, PHP, Laravel, and MySQL. I think about code organization more than I would like to admit and have been using principles of Atomic Design for component hierarchy, CSS-in-JS for styling, and Storybook for visual testing.
 </p>
-
-- 👯 I’m looking to collaborate on Open-Source Software
-- ⚡ Fun fact: I'm from Ituiutaba, Minas Gerais, Brazil
 
 ![Metrics](https://metrics.lecoq.io/vandreleal)
